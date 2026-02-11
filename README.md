@@ -1,4 +1,4 @@
-# Hola!  I'm Juan Palacios 👋
+# Hola!  I'm Juan Palacios ⚡️
 
 🌍 Global Talent Acquisition | 🧠 Psychologist driving Tech Hiring | 🚀 Technical Sourcing | 🤖 AI Powered Recruitment
 
@@ -8,13 +8,15 @@ Empowering professionals to build global and remote careers, and supporting comp
 
 ## 🚀 About Me
 
+- 🇲🇹 Building from Malta (EU)
 - 🎯 Focused on Global Employability & Remote Work
-- 🌎 Building from Malta
 - 📊 Interested in Organizational Psychology
 - 💼 Founder of JUMP (HR Consulting & Career Growth)
 - ✈️ Digital Nomad Journey
 
 ---
+
+## 💾 Download my CV
 
 [![Download CV](https://img.shields.io/badge/Juan_Palacios%20-CV_2026-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](JuanPalacios_CV_2026.pdf)
 
