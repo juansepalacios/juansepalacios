@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Sebastián
 
-<!--
-**juansepalacios/juansepalacios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Global Talent Acquisition | 🧠 Psychologist driving Tech Hiring | 🚀 Technical Sourcing | 🤖 AI Powered Recruitment
 
-Here are some ideas to get you started:
+Helping professionals build global and remote careers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎯 Focused on Employability & Remote Work
+- 🌎 Building from Malta
+- 💼 Founder of JUMP (HR Consulting & Career Growth)
+- 📊 Interested in Organizational Psychology
+- ✈️ Digital Nomad Journey
+
+---
+
+## 🤝 Connect with Me
+
+💼 LinkedIn: https://linkedin.com/in/juansepalacios/  
+💻 GitHub: https://github.com/juansepalacios/  
+📸 Instagram: https://www.instagram.com/juansebastian869/  
+📱 Phone: +34 671 416 020
