@@ -1,4 +1,4 @@
-# 👋 Hola, I'm Juanse Palacios
+# 👋 Hola!  I'm Juanse Palacios
 
 🌍 Global Talent Acquisition | 🧠 Psychologist driving Tech Hiring | 🚀 Technical Sourcing | 🤖 AI Powered Recruitment
 
