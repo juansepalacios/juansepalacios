@@ -22,14 +22,14 @@ Empowering professionals to build global and remote careers, and supporting comp
 
 ## 📝 Jump | Consultancy Services
 
-[![Job Easy Apply](https://img.shields.io/badge/Apply%20Job-FF4500?style=for-the-badge)](https://forms.gle/RAWHZEgf278pXxUW9) &nbsp;
+[![Job Easy Apply](https://img.shields.io/badge/Job%20Eassy_Apply-FF4500?style=for-the-badge)](https://forms.gle/RAWHZEgf278pXxUW9) &nbsp;
+[![Jump Instagram](https://img.shields.io/badge/Jump%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jump_europe)
 [![Jump Services](https://img.shields.io/badge/Jump%20Services-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/jump-europe/services/request-proposal/) &nbsp;
 [![Jump LinkedIn](https://img.shields.io/badge/Jump%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/jump-europe/) &nbsp;
-[![Jump Instagram](https://img.shields.io/badge/Jump%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jump_europe)
 
 ---
 
-## 🤝 Connect Me
+# 🤝 Connect Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juansepalacios/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juansepalacios/) &nbsp;
