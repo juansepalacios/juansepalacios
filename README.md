@@ -1,6 +1,6 @@
 # Hola!  I'm Juan Palacios ⚡️
 
-🌍 Global Talent Acquisition | 🧠 Psychologist driving Tech Hiring | 🚀 Technical Sourcing | 🤖 AI Powered Recruitment | 🇨🇴 Colombian
+🌍 Global Talent Acquisition | 🧠 Psychologist | 🚀 Technical Sourcing | 🤖 AI Powered Recruitment | 🇨🇴 Colombian
 
 Empowering professionals to build global and remote careers, and supporting companies in designing scalable hiring and people systems that drive growth while protecting culture, clarity, and operational excellence.
 
