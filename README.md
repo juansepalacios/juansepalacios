@@ -11,7 +11,7 @@ Empowering professionals to build global and remote careers, and supporting comp
 - 🇲🇹 Building from Malta (EU)
 - 🎯 Focused on Global Employability & Remote Work
 - 📊 Interested in Organizational Psychology
-- 💼 Founder of JUMP (HR Consulting & Career Growth)
+- 💼 JUMP (HR Consulting & Career Growth)
 - ✈️ Digital Nomad Journey
 
 ---
